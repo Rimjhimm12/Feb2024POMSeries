@@ -4,6 +4,7 @@ screenshot/
 test-output/
 build/
 reports/
+logs/
 
 opencart.log
 ##############################
