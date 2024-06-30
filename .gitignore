@@ -60,3 +60,5 @@ local.properties
 .factorypath
 
 ## OS X
+##############################
+.DS_Store
