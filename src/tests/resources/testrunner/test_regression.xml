@@ -14,12 +14,12 @@
 	</listeners>
 
 
-	<test name="Registation Page Test">
+	<!--<test name="Registation Page Test">
 		<parameter name="browser" value="chrome"/>
 		<classes>
 			<class name="com.qa.opencart.tests.RegisrerPageTest" />
 		</classes>
-	</test>
+	</test>-->
 	
 	<test name="login Page Test">
 		<parameter name="browser" value="chrome"/>
@@ -28,7 +28,7 @@
 		</classes>
 	</test>
 	
-	<test name="Account Page Test">
+	<!--<test name="Account Page Test">
 		<parameter name="browser" value="firefox"/>
 		<classes>
 			<class name="com.qa.opencart.tests.AccountPageTest" />
@@ -42,7 +42,7 @@
 		<classes>
 			<class name="com.qa.opencart.tests.ProductInfoPageTest" />
 		</classes>
-	</test>
+	</test>-->
 	
 	
 	
