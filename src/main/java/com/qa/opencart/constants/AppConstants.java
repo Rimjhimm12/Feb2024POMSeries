@@ -20,7 +20,7 @@ public class AppConstants {
 	
 	
 	
-	public static final String LOGIN_PAGE_TITLE= "Account Login";
+	public static final String LOGIN_PAGE_TITLE= "Account Login11";
 	public static final String LOGIN_PAGE_FRACTION_URL= "login";
 	public static final String ACCOUNT_PAGE_TITLE= "My Account";
 	public static final String ACCOUNT_PAGE_FRACTION_URL = "account";
